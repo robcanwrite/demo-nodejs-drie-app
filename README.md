@@ -7,7 +7,7 @@ A barebones Node.js app using [Express 4](http://expressjs.com/).
 Make sure you have [Node.js](http://nodejs.org/) and the [Drie CLI](http://docs.drie.co/docs/install-drie-cli) installed.
 
 ```sh
-$ git clone git@github.com:mraym/demo-nodejs-drie-app.git # or clone your own fork
+$ git clone https://github.com/mraym/demo-nodejs-drie-app.git # or clone your own fork
 $ cd demo-nodejs-drie-app
 $ npm install
 $ npm start
